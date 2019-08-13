@@ -1,0 +1,19 @@
+h1 {
+    color: palevioletred;
+    background-color: cornflowerblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25pt;
+}
+
+p {
+    color: yellowgreen;
+    background-color: cornsilk;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 15pt;
+}
+
+a {
+    font-style: normal;
+}
